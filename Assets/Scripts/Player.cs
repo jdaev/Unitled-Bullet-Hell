@@ -18,15 +18,15 @@ public class Player : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Q))
         {
-            BulletManager.Instance.ShootBullet(BulletType.Energy,Vector3.forward);
+            BulletManager.Instance.ShootBullet(BulletType.Energy,transform.position);
         }
         if (Input.GetKeyDown(KeyCode.W))
         {
-            BulletManager.Instance.ShootBullet(BulletType.Explosive,Vector3.forward);
+            BulletManager.Instance.ShootBullet(BulletType.Explosive,transform.position);
         }
         if (Input.GetKeyDown(KeyCode.E))
         {
-            BulletManager.Instance.ShootBullet(BulletType.Kinetic,Vector3.forward);
+            BulletManager.Instance.ShootBullet(BulletType.Kinetic,transform.position);
         }
     }
 }

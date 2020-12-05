@@ -29,6 +29,7 @@ public class Bullet : MonoBehaviour, IPoolable
 
     void OnReachingRangeEnd()
     {
+        
         if (Vector3.SqrMagnitude(originPoint - transform.position) > Mathf.Pow(range, 2))
         {
             BulletManager.Instance.RemoveBullet(this);
@@ -45,7 +46,6 @@ public class Bullet : MonoBehaviour, IPoolable
 
     public void DePooled()
     {
-        transform.position = Vector3.zero;
         tlr.Clear();
     }
 
