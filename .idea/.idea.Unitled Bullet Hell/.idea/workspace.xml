@@ -22,14 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88f14575-396c-4a57-8acd-7c581f041b8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unitled Bullet Hell/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unitled Bullet Hell/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unitled Bullet Hell/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unitled Bullet Hell/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unitled Bullet Hell/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BulletFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BulletFactory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
-    </list>
+    <list default="true" id="88f14575-396c-4a57-8acd-7c581f041b8d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +108,7 @@
       <workItem from="1607118621598" duration="86000" />
       <workItem from="1607118744212" duration="8390000" />
       <workItem from="1607182575241" duration="5941000" />
-      <workItem from="1607192982268" duration="838000" />
+      <workItem from="1607192982268" duration="1429000" />
     </task>
     <servers />
   </component>
